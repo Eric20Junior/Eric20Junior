@@ -1,6 +1,8 @@
 ### Hi there, I'm Eric A Self-taught Web Developer and Fullstack Software Engineering student at ALX-Holberton_School. 👋
 
 - 🌱 I’m currently learning Web Developer and Fullstack SWE.
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Eric20Junior/Eric20Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
