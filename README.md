@@ -11,6 +11,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />]
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
