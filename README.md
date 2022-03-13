@@ -13,7 +13,7 @@
 [<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />]
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **Eric20Junior/Eric20Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
