@@ -1,4 +1,5 @@
-### Hi there, I'm Eric A Self-taught Web Developer and Fullstack Software Engineering student at ALX-Holberton_School. 👋
+### Hi there, I'm Eric A Self-taught Web Developer and Fullstack Softwore Engineering Student On a 100DaysOfCode Challenge. 👋
+
 
 - 🌱 I’m currently learning Web Developer and Fullstack SWE.
 - 👯 I’m looking to collaborate on Projects and improve on my skills.
