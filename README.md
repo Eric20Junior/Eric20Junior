@@ -1,4 +1,4 @@
-### Hi there, I'm Eric A Self-taught Web Developer and Fullstack Softwore Engineering Student On a 100DaysOfCode Challenge. 👋
+### Hi there, I'm Eric A Self-taught Web Developer and Fullstack Softwore Engineering. 👋
 
 
 - 🌱 I’m currently learning Web Developer and Fullstack SWE.
