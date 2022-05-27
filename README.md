@@ -16,7 +16,8 @@
 <img align="left" alt="Github" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/GitHub_font_awesome.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png" style="padding-right:10px;" />
 
-- 📫 How to reach me: <img align="left" alt="Django" width="26px" src="[https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)" style="padding-right:10px;" />
+### 📫 How to reach me: 
+<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
