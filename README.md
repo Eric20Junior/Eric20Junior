@@ -5,7 +5,7 @@
 - 🔭 I’m currently looking for an internship role.
 - 👯 I’m looking to collaborate on Projects and improve on my skills.
 
-### Languages and Tools:
+###<img align="left" alt="Visual Studio Code" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://camo.githubusercontent.com/4796461360f31167b8e680935dbdde5bf6c0680220744a2bea9dfb58a0b1db09/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56757579774f746b663867797938395467592f67697068792e676966)" style="padding-right:10px;" /> Tech Stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -18,7 +18,7 @@
 <br>
 
 ### 📫 How to reach me: 
-<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
