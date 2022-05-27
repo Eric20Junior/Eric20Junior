@@ -1,6 +1,4 @@
-<div text-align="center">
-### Hi there, I'm Eric A Self-taught Web Developer and Fullstack Softwore Engineering. 👋
-</div>
+### <div align="center">### Hi there, I'm Eric A Self-taught Web Developer and Fullstack Softwore Engineering. 👋</div>
 <hr>
 
 
