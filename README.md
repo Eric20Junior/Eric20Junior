@@ -1,14 +1,13 @@
 ### Hi there, I'm Eric A Self-taught Web Developer and Fullstack Softwore Engineering. 👋
-<hr height="5">
+<hr size="5">
 
 
 - 🌱 I’m currently learning Web Developer and Fullstack SWE.
 - 🔭 I’m currently looking for an internship role.
 - 👯 I’m looking to collaborate on Projects and improve on my skills.
-- <hr>
 
 ### <img align="left" alt="giphy" width="40px" src="https://media.giphy.com/media/VuuywOtkf8gyy89TgY/giphy.gif" style="padding-right:10px;" /> Tech Stack:
-
+<hr size="5">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -18,9 +17,9 @@
 <img align="left" alt="Github" width="26px" background="white" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/GitHub_font_awesome.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png" style="padding-right:10px;" />
 <br>
-<hr>
 
 ### 📫 How to reach me: 
+<hr size="5>
 <a href="https://www.linkedin.com/in/eric20junior" target="blank"><img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 
 <!-- [![Eric Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
