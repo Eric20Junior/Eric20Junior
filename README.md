@@ -18,9 +18,9 @@
 <br>
 
 ### 📫 How to reach me: 
-<a href="www.linkedin.com/in/eric20junior" target="blank"><img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/eric20junior" target="blank"><img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Eric Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **Eric20Junior/Eric20Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
