@@ -19,7 +19,9 @@
 <img align="left" alt="Django" width="26px" src="https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png" style="padding-right:10px;" />
 <br>
 
-### <img align="left" alt="mail" width="40" src="https://media1.giphy.com/media/gjEX8uRyUSnHTvS9hD/giphy.gif?cid=ecf05e47v2w8jxcjc12d2o66ffqp2ssu863uv9d18ou5nvon&rid=giphy.gif&ct=g" /> How to reach me: <a href="https://www.linkedin.com/in/eric20junior" target="blank"><img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
+### <img align="left" alt="mail" width="40" src="https://media1.giphy.com/media/gjEX8uRyUSnHTvS9hD/giphy.gif?cid=ecf05e47v2w8jxcjc12d2o66ffqp2ssu863uv9d18ou5nvon&rid=giphy.gif&ct=g" /> How to reach me: 
+<hr>
+<a href="https://www.linkedin.com/in/eric20junior" target="blank"><img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 
 <!-- [![Eric Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
