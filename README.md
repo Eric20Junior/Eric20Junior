@@ -14,7 +14,7 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" style="padding-right:10px;" />
 
 
 
