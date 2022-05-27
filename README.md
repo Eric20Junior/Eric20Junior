@@ -1,4 +1,5 @@
 ### Hi there, I'm Eric A Self-taught Web Developer and Fullstack Softwore Engineering. 👋
+<hr>
 
 
 - 🌱 I’m currently learning Web Developer and Fullstack SWE.
