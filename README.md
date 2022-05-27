@@ -1,5 +1,7 @@
+<div text-align="center">
 ### Hi there, I'm Eric A Self-taught Web Developer and Fullstack Softwore Engineering. 👋
-<hr size="30">
+</div>
+<hr>
 
 
 - 🌱 I’m currently learning Web Developer and Fullstack SWE.
@@ -7,7 +9,7 @@
 - 👯 I’m looking to collaborate on Projects and improve on my skills.
 
 ### <img align="left" alt="giphy" width="40px" src="https://media.giphy.com/media/VuuywOtkf8gyy89TgY/giphy.gif" style="padding-right:10px;" /> Tech Stack:
-<hr size="5">
+<hr>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -19,7 +21,7 @@
 <br>
 
 ### 📫 How to reach me: 
-<hr size="5>
+<hr>
 <a href="https://www.linkedin.com/in/eric20junior" target="blank"><img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 
 <!-- [![Eric Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
