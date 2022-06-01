@@ -7,7 +7,7 @@
 - 🔭 I’m currently looking for an internship role.
 - 👯 I’m looking to collaborate on Projects and improve on my skills.
 
-### <img align="left" alt="giphy" width="30px" src="https://media.giphy.com/media/VuuywOtkf8gyy89TgY/giphy.gif" style="padding-right:10px;" /> Tech Stack:
+### <img align="left" alt="giphy" width="10px" src="https://media.giphy.com/media/VuuywOtkf8gyy89TgY/giphy.gif" style="padding-right:10px;" /> Tech Stack:
 <hr>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
