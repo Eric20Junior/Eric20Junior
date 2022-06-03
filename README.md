@@ -23,7 +23,6 @@
 <hr>
 <a href="https://www.linkedin.com/in/eric20junior" target="blank"><img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 
-<img align="left" alt="giphy" width="10px" src="https://media.giphy.com/media/VuuywOtkf8gyy89TgY/giphy.gif" style="padding-right:10px;" />
 
 <!-- [![Eric Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
