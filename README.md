@@ -7,7 +7,7 @@
 - 🔭 I’m currently looking for an internship role.
 - 👯 I’m looking to collaborate on Projects and improve on my skills.
 
-### <img align="left" alt="giphy" width="10px" src="https://media.giphy.com/media/VuuywOtkf8gyy89TgY/giphy.gif" style="padding-right:10px;" />  Tech Stack:
+###   Tech Stack:
 <hr>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -22,6 +22,8 @@
 ### <img align="left" alt="mail" width="30" src="https://media1.giphy.com/media/gjEX8uRyUSnHTvS9hD/giphy.gif?cid=ecf05e47v2w8jxcjc12d2o66ffqp2ssu863uv9d18ou5nvon&rid=giphy.gif&ct=g" /> How to reach me: 
 <hr>
 <a href="https://www.linkedin.com/in/eric20junior" target="blank"><img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
+
+<img align="left" alt="giphy" width="10px" src="https://media.giphy.com/media/VuuywOtkf8gyy89TgY/giphy.gif" style="padding-right:10px;" />
 
 <!-- [![Eric Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
