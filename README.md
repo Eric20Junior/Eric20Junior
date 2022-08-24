@@ -28,9 +28,9 @@
 
 ## <img src="https://media.giphy.com/media/hkNbrNmLix4cbzr5OJ/giphy.gif" width="70">STATS
 
-<p style="text-align: left" width="30px"><img src="https://github-readme-stats.vercel.app/api?username=Eric20Junior&show_icons=true&locale=en" alt="Eric2Junior" /></p>
+<p style="text-align: left" width="20px"><img src="https://github-readme-stats.vercel.app/api?username=Eric20Junior&show_icons=true&locale=en" alt="Eric2Junior" /></p>
 
-<p style="text-align: left"> <a href="https://github.com/Eric20Junior/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eric20Junior" alt="Eric20Junior" /></a> </p>
+<p style="text-align: left" width="20px"> <a href="https://github.com/Eric20Junior/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eric20Junior" alt="Eric20Junior" /></a> </p>
 
 <!-- anilist stats -->
 
