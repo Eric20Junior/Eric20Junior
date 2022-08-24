@@ -1,5 +1,5 @@
 ### <div align="center">Hi there, I'm Eric <br>A Self-taught Web Developer and Fullstack Softwore Engineering. 👋</div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Eric20Junior&label=Profile%20views&color=0e75b6&style=flat" alt="rookim" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Eric20Junior&label=Profile%20views&color=0e75b6&style=flat" alt="Eric20Junior" /> </p>
 <hr>
 
 
@@ -26,9 +26,9 @@
  
  &nbsp;
 
-## <img src="https://media.giphy.com/media/hkNbrNmLix4cbzr5OJ/giphy.gif" width="70">STATS
+## <img src="https://media.giphy.com/media/hkNbrNmLix4cbzr5OJ/giphy.gif" width="70">STATS:
 
-<p style="text-align: left" width="20px"><img src="https://github-readme-stats.vercel.app/api?username=Eric20Junior&show_icons=true&locale=en" alt="Eric2Junior" /></p>
+<!-- <p style="text-align: left" width="20px"><img src="https://github-readme-stats.vercel.app/api?username=Eric20Junior&show_icons=true&locale=en" alt="Eric2Junior" /></p> -->
 
 <p style="text-align: left" width="20px"> <a href="https://github.com/Eric20Junior/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eric20Junior" alt="Eric20Junior" /></a> </p>
 
