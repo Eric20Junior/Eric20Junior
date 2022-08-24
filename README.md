@@ -24,7 +24,19 @@
 <a href="https://www.linkedin.com/in/eric20junior" target="blank"><img align="left" alt="Linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 
 
- [![Eric Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) 
+ <!-- [![Eric Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric20Junior)](https://github.com/anuraghazra/github-readme-stats) -->
+ 
+ &nbsp;
+
+## <img src="https://media.giphy.com/media/hkNbrNmLix4cbzr5OJ/giphy.gif" width="70">STATS
+
+<p style="text-align: left"><img src="https://github-readme-stats.vercel.app/api?username=Eric20Junior&show_icons=true&locale=en" alt="Eric2Junior" /></p>
+
+<p style="text-align: left"> <a href="https://github.com/Eric20Junior/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eric20Junior" alt="Eric20Junior" /></a> </p>
+
+<!-- anilist stats -->
+
+<!-- maplestory stats -->
 <!--
 **Eric20Junior/Eric20Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
