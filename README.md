@@ -1,4 +1,4 @@
-### <div align="center">Hi there, I'm Eric <br>A Self-taught Web Developer and Fullstack Softwore Engineering. 👋</div>
+### <div align="center">Hi there, I'm Eric <br>A Self-taught Web Developer and Fullstack Software Engineering. 👋</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Eric20Junior&label=Profile%20views&color=0e75b6&style=flat" alt="Eric20Junior" /> </p>
 <hr>
 
