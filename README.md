@@ -3,7 +3,7 @@
 <hr>
 
 
-- 🌱 I’m currently learning Web Developer and Fullstack SWE.
+<!-- - 🌱 I’m currently learning Web Developer and Fullstack SWE. -->
 - 🔭 I’m currently looking for an internship role.
 - 👯 I’m looking to collaborate on Projects and improve on my skills.
 
