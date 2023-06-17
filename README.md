@@ -17,6 +17,7 @@
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" background="white" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
 <br>
 
 ### <img align="left" alt="mail" width="30" src="https://media1.giphy.com/media/gjEX8uRyUSnHTvS9hD/giphy.gif?cid=ecf05e47v2w8jxcjc12d2o66ffqp2ssu863uv9d18ou5nvon&rid=giphy.gif&ct=g" /> How to reach me: 
